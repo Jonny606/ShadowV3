@@ -1,6 +1,6 @@
 self.__uv$config = {
   prefix: "/uv/service/",
-  bare: "http://108.162.198.208:80/", // Updated with the new proxy server
+  bare: "http://113.108.13.120:8083/",
   encodeUrl: Ultraviolet.codec.xor.encode,
   decodeUrl: Ultraviolet.codec.xor.decode,
   handler: "/uv/uv.handler.js",
